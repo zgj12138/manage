@@ -20,3 +20,8 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+manage-parent/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml
+manage-parent/.idea/libraries/Maven__com_alibaba_druid_unknown.xml
+manage-parent/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml
+manage-parent/.idea/
+*.iml
